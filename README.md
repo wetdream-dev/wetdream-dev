@@ -1,5 +1,5 @@
 ### Hi, I'm Rizky <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
-[![wakatime](https://wakatime.com/badge/user/f310e07a-aac5-4dc0-9b79-642f9347a21e/project/04674d6c-9c83-4f1e-9e7b-22a94b265f94.svg)](https://wakatime.com/badge/user/f310e07a-aac5-4dc0-9b79-642f9347a21e/project/04674d6c-9c83-4f1e-9e7b-22a94b265f94)
+[![wakatime](https://wakatime.com/badge/user/f310e07a-aac5-4dc0-9b79-642f9347a21e.svg)](https://wakatime.com/@f310e07a-aac5-4dc0-9b79-642f9347a21e)
 ---
 
 - 🌟 Main languages: C#, Visual Basic
