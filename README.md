@@ -9,7 +9,7 @@
 - 🎵 Love future bass, lofi, hyperpop and soft music
 
 - ⚡ Fun fact:  
-     - on my smartphone, I prefer to use the smallest font., my friend say it's weird
+     - on my smartphone, I prefer to use the smallest font, my friend say it's weird
      - this emoji can descript who am i : ♍ 🎮 🍝 📖 🤓 ☕ 🏊‍♂️ 
      
 
