@@ -1,1 +1,20 @@
-# WetDream
+### Hi, I'm Rizky <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
+[![wakatime](https://wakatime.com/badge/user/f310e07a-aac5-4dc0-9b79-642f9347a21e/project/04674d6c-9c83-4f1e-9e7b-22a94b265f94.svg)](https://wakatime.com/badge/user/f310e07a-aac5-4dc0-9b79-642f9347a21e/project/04674d6c-9c83-4f1e-9e7b-22a94b265f94)
+---
+
+- 🌟 Main languages: C#, Visual Basic
+
+- 🌱 I’m currently learning more about Dart and Xamarin.
+
+- 🎵 Love future bass, lofi, hyperpop and soft music
+
+- ⚡ Fun fact:  
+     - on my smartphone, I prefer to use the smallest font., my friend say it's weird
+     - this emoji can descript who am i : ♍ 🎮 🍝 📖 🤓 ☕ 🏊‍♂️ 
+     
+
+### 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rizkyrs_77) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/xRenesmee) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/rizkyrs) 
+
+### 💻 Tech Stack
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
