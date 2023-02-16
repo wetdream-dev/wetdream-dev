@@ -4,7 +4,7 @@
 
 - 🌟 Main languages: C#, Visual Basic
 
-- 🌱 I’m currently learning more about Dart and Xamarin.
+- 🌱 I’m currently learning more about Flutter and Xamarin.
 
 - 🎵 Love future bass, lofi, hyperpop and soft music
 
