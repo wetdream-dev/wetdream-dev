@@ -1,5 +1,4 @@
 ### Hi, I'm WetDream <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
-[![wakatime](https://wakatime.com/badge/user/f310e07a-aac5-4dc0-9b79-642f9347a21e.svg)](https://wakatime.com/@cc2436dc-ca65-4782-8a56-b6bb85e7e2b2)
 [![wakatime](https://wakatime.com/badge/user/f310e07a-aac5-4dc0-9b79-642f9347a21e.svg)](https://wakatime.com/@f310e07a-aac5-4dc0-9b79-642f9347a21e)
 ---
 
